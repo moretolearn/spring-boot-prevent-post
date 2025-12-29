@@ -1,4 +1,4 @@
-package com.moretolearn;
+package com.moretolearn.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;

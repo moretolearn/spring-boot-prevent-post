@@ -1,4 +1,4 @@
-package com.moretolearn;
+package com.moretolearn.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

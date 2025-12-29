@@ -1,4 +1,4 @@
-package com.moretolearn;
+package com.moretolearn.service;
 
 import java.time.Duration;
 import java.util.function.Supplier;

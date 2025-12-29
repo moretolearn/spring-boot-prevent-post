@@ -1,4 +1,4 @@
-package com.moretolearn;
+package com.moretolearn.dto;
 
 import java.math.BigDecimal;
 
